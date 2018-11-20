@@ -16,4 +16,3 @@ class TrimStrings extends BaseTrimmer
         'password_confirmation',
     ];
 }
-?>
